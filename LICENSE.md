@@ -1,4 +1,4 @@
-# 
+# Premium dydx trading bot scripts for Mac OS | Ultime dydx trading bot scripts for PC Windows. Featuring trading de contrats à terme and API d'échange centralisé — optimized for maximum performance.
 
 
 
